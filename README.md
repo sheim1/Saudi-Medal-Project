@@ -18,5 +18,4 @@ https://cad.onshape.com/documents/c1d84c69ba7d2f355065290e/w/70d08e6cacba09eb33d
 
 Project Goal
 The goal of this project is to create a 3D medal design using computer-aided design (CAD) software and export the final model in STL format.
-Author
-Shaimaa
+
